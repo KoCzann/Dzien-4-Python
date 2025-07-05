@@ -1,27 +1,25 @@
 # Dzien-4-Python
 
-
 🎯 Cele dnia:
-Zrozumieć, czym są funkcje (def, argumenty, return)
+Zrozumienie, czym są funkcje i jak je tworzyć (def, return)
 
-Nauczyć się pisać własne funkcje, które wykonują obliczenia
+Poznanie, czym jest argument funkcji
 
-Poznać moduły Pythona i użyć import
+Opanowanie importowania modułów (import math)
 
-Wykorzystać gotowe funkcje z modułu math
+Użycie gotowej funkcji z zewnętrznej biblioteki
 
+Obsługa błędów (try, except, exit())
 
-📂 Pliki dnia:
-functions.py	Prosta funkcja greet(name) — wypisuje powitanie
+📂 Pliki:
+functions.py — powitanie z funkcją greet(name), pokazujące działanie return
 
-modules.py	Użycie math.sqrt() i math.pi po zaimportowaniu modułu
+modules.py — wprowadzenie do modułu math i funkcji sqrt(), pi
 
-functions2.py	Zadanie osobiste — funkcja oceniająca pełnoletniość z obsługą błędów 🧡
-
-Plik functions2.py to program, nad którym długo pracowałam: zawiera try–except, int(input()), exit() i dynamiczne powitanie w zależności od wieku.
-
+functions2.py — moje własne zadanie: interaktywny program sprawdzający pełnoletniość, z obsługą błędów i warunkami logicznymi 🧡
 
 ✅ Podsumowanie:
 Dzien 4 był dla mnie pierwszym wyzwaniem. Próbowałam rozwiązać problemy z try-except, nad którym bardzo długo siedziałam i się nie poddałam. 
 
 Początkowo nie do końca rozumiałam tę funkcję lecz finalnie udało się wszystko rozpracować i złożyć w całość, tak, aby działało!
+
